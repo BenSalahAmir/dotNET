@@ -1,0 +1,12 @@
+C:\Users\Dell\Desktop\dotnet\GDV\GestionDeVacination\bin\Debug\net6.0\GestionDeVacination.deps.json
+C:\Users\Dell\Desktop\dotnet\GDV\GestionDeVacination\bin\Debug\net6.0\GestionDeVacination.dll
+C:\Users\Dell\Desktop\dotnet\GDV\GestionDeVacination\bin\Debug\net6.0\GestionDeVacination.pdb
+C:\Users\Dell\Desktop\dotnet\GDV\GestionDeVacination\obj\Debug\net6.0\GestionDeVacination.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\dotnet\GDV\GestionDeVacination\obj\Debug\net6.0\GestionDeVacination.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\dotnet\GDV\GestionDeVacination\obj\Debug\net6.0\GestionDeVacination.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\dotnet\GDV\GestionDeVacination\obj\Debug\net6.0\GestionDeVacination.AssemblyInfo.cs
+C:\Users\Dell\Desktop\dotnet\GDV\GestionDeVacination\obj\Debug\net6.0\GestionDeVacination.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\dotnet\GDV\GestionDeVacination\obj\Debug\net6.0\GestionDeVacination.dll
+C:\Users\Dell\Desktop\dotnet\GDV\GestionDeVacination\obj\Debug\net6.0\refint\GestionDeVacination.dll
+C:\Users\Dell\Desktop\dotnet\GDV\GestionDeVacination\obj\Debug\net6.0\GestionDeVacination.pdb
+C:\Users\Dell\Desktop\dotnet\GDV\GestionDeVacination\obj\Debug\net6.0\ref\GestionDeVacination.dll
